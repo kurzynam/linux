@@ -20,5 +20,11 @@
             <version>1.0.3</version>
         </dependency>
     </dependencies>
+    <repositories>
+        <repository>
+            <id>github</id>
+            <url>https://maven.pkg.github.com/OOP2024-MVN-TEST</url>
+        </repository>
+    </repositories>
 
 </project>

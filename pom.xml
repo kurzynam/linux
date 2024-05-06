@@ -23,7 +23,7 @@
     <repositories>
         <repository>
             <id>github</id>
-            <url>https://maven.pkg.github.com/OOP2024-MVN-TEST</url>
+            <url>https://maven.pkg.github.com/kurzynam/OOP2024-MVN-TEST</url>
         </repository>
     </repositories>
 
